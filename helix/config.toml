@@ -1,0 +1,10 @@
+[editor]
+true-color = true
+end-of-line-diagnostics = "hint"
+[editor.lsp]
+display-inlay-hints = true
+[editor.inline-diagnostics]
+cursor-line = "warning" # show warnings and errors on the cursorline inline
+[keys.normal]
+"C-s" = ":w"
+X = ["extend_line_up", "extend_to_line_bounds"]
