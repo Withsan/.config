@@ -901,5 +901,5 @@ $env.config = {
         }
     ]
 }
-use git-completions.nu *
-use cargo-completions.nu *
+use ../nu_scripts/custom-completions/git/git-completions.nu
+use ../nu_scripts/custom-completions/cargo/cargo-completions.nu

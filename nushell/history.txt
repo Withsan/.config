@@ -1,0 +1,90 @@
+rm -rf .config/
+git clone git@github.com:Withsan/.config.git
+ls
+cd .config/ls
+cd .config/
+;s
+ls
+cd ..
+git force-clone git@github.com:Withsan/.config.git
+git clone git@github.com:Withsan/.config.git
+git clone git@github.com:Withsan/.config.git .config/
+cd .config/
+git init
+git remote add remote git@github.com:Withsan/.config.git
+git pull
+git branch --set-upstream-to=remote/<branch> master
+git branch --set-upstream-to=remote/<branch> amin
+git branch --set-upstream-to=remote/<branch> main
+git status
+git remote
+git remote -v
+git pull
+git pull remote 
+git remote del remove
+git remote remove remote
+git remote add origin git@github.com:Withsan/.config.git
+git remote
+git pull origin main
+git branch 
+ls
+cd ..
+ls
+cd src/
+ls
+rm -rf src.gzip
+ls
+rm -rf nu_scripts/
+ls
+hx .
+hx .
+hx .cargo/
+cd .config/
+hx .
+git status
+git add nushell/config.nu
+git commit -m "fix:remove none exists nu"
+git config --global user.email "reallyviolin@gmail.com"
+git config --global user.name "violin"
+git commit -m "fix:remove none exists nu"
+git push
+git push --set-upstream origin master
+git branch
+git branch -v
+git branch -r
+git check out origin/main
+git checkout origin/main
+git branch -v
+git branch -r
+git branch -v
+git branch 
+git switch main
+git merge master
+git push
+git pull
+git config pull.rebase true
+git pull
+git push
+git branch
+git branch remove master
+git branch
+git branch --help
+man git branch
+man
+git branch -d remove
+git branch -D remove
+git branch -D master
+git branch
+hx nushell/config.nu
+ls
+cd nu_scripts/ls
+git submodule update --init --recursive
+cd nushell/
+hx config.nu
+ls
+rm cargo-completions.nu
+rm git-completions.nu
+cd ..
+ls
+rm init.nu
+ls
