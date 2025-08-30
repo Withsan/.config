@@ -903,4 +903,3 @@ $env.config = {
 }
 use git-completions.nu *
 use cargo-completions.nu *
-use ~/.sync_co_sign.nu *
